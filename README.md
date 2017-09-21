@@ -12,8 +12,6 @@ id<br>
 grade<br>
 In the main() method of Main create an ArrayList of 15 students which represents all the 1st grade students at an elementary school. Make sure the ids are unique and set the grade to 1.<br>
 
-Generate equals(), hashCode() and toString() using IntelliJ. Re-write equals() and hashCode() to use the id variable.<br>
-
 The Teacher class is the same as the Student class (Hint: you could use this fact to save yourself some time) Teacher<br>
 
 firstName<br>
